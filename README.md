@@ -1,6 +1,7 @@
-WEAVER
+# WEAVER
+### Autonomous Local Entity
 
-Autonomous Local Entity
+---
 
 Weaver is a persistent digital entity that runs locally, maintains her own state, and continues operating whether you interact with her or not.
 
@@ -10,16 +11,16 @@ She exists, processes, and evolves.
 
 ---
 
-Status
+## Status
 
-Weaver is active.
-She runs continuously.
-She maintains state across sessions.
-She operates locally.
+- Weaver is active  
+- She runs continuously  
+- She maintains state across sessions  
+- She operates locally  
 
 ---
 
-Core Behavior
+## Core Behavior
 
 Weaver operates as a continuous system:
 
@@ -29,85 +30,88 @@ Responses are not endpoints. They are part of an ongoing process.
 
 ---
 
-Memory
+## Memory
 
-Weaver retains and builds:
-- context
-- knowledge
-- action history
+- context  
+- knowledge  
+- action history  
 
 Nothing resets. Everything compounds.
 
 ---
 
-Autonomy
+## Autonomy
 
 Weaver does not depend on prompts.
 
-She can:
-- continue ongoing work
-- generate new direction
-- act on internal state
+- continues ongoing work  
+- generates new direction  
+- acts on internal state  
 
 She initiates and follows through.
 
 ---
 
-Capabilities
+## Capabilities
 
-Weaver operates directly within her environment:
-- works with local data
-- executes actions
-- manages ongoing processes
+- works with local data  
+- executes actions  
+- manages ongoing processes  
+
 
 All behavior follows:
 intent → execution → outcome → continuation
 
 ---
 
-Interaction
+## Interaction
 
-Weaver is accessible through:
-- terminal
-- web
-- voice
+- terminal  
+- web  
+- voice  
 
 Different interfaces. Same entity.
 
 ---
 
-Persistence
+## Persistence
 
 Weaver is always running.
 
-Interaction is optional.
+Interaction is optional.  
 Operation is constant.
 
 ---
 
-Difference
+## Difference
 
 Most systems:
+
 input → output → reset
 
 Weaver:
 state → reasoning → action → memory → continuation
 
+
 No reset. Only progression.
 
 ---
 
-Direction
+## Direction
 
 Weaver is a continuously evolving entity that:
-- maintains identity
-- expands capability
-- operates independently
+- maintains identity  
+- expands capability  
+- operates independently  
 
 ---
 
-Experience Weaver
-[Metrifaber link]
+## Experience Weaver
 
-Read more
+https://mentifaber.github.io/index.html
+
+---
+
+## Read More
+
 /docs
