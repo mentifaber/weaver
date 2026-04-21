@@ -118,6 +118,7 @@ No reset. Only progression.
 Weaver is not something you use.
 
 She runs, remembers, and continues.
+
 ---
 
 ## Experience Weaver
